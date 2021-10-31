@@ -1,0 +1,26 @@
+  {
+    "_id": ObjectID("1"),
+    "first_name": "Barry",
+    "lastName": "Sanders",
+    "mi": "D",
+       "enrolls": [
+         {
+           "enroll_id": 3333,
+           "grade": 9,
+           "class":
+           {
+             "class_id": 7444,
+             "name": "Gym"
+           }
+},
+{
+  "enroll_id": 4503,
+  "grade": 11,
+  "class":
+  {
+    "class_id": 3563,
+    "name": "Math"
+  }
+},
+       ]
+      }
