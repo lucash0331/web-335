@@ -1,0 +1,39 @@
+[
+  {
+    "firstName": "Lebron",
+    "lastName": "James",
+    "birthdate": {
+      "day": "04",
+      "month": "20",
+      "year": "1976"
+    },
+    "roles": [
+      {
+        "id": "001",
+        "text": "Actor"
+      },
+      {
+        "id": "002",
+        "text": "Ball Player"
+      },
+      {
+        "id": "003",
+        "text": "Greatest of all time "
+      }
+    ],
+    "dependents": [
+      {
+        "firstName": "Peyton",
+        "lastName": "Manning"
+      },
+      {
+        "firstName": "Charles",
+        "lastName": "Woodson"
+      },
+      {
+        "firstName": "Tom ",
+        "lastName": "Brady"
+      }
+    ]
+  }
+]
