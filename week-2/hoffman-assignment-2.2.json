@@ -1,0 +1,55 @@
+[
+  {
+    "_id": 1001,
+    "first_name": "Kobe",
+    "lastName": "Bryant",
+    "date_of_birth": "09/27/1984",
+    "user_name": "kbryant",
+    "invoices": [
+      {
+        "_id": 1420,
+        "date_created": "10/30/2021",
+        "date_shipped": "10/30/2021",
+        "subtotal": "$68.00",
+        "tax": "$4.83",
+        "total": "$72.83",
+        "line-item": [
+          {
+            "_id": 835,
+            "name": "Dr. Pepper",
+            "price": "$2.10",
+            "quantity": 3
+          },
+          {
+            "_id": 725,
+            "name": "Pizza",
+            "price": "$15.00",
+            "quantity": 8
+          }
+        ]
+      },
+      {
+        "_id": 420,
+        "date_created": "10/30/2021",
+        "date_shipped": "10/30/2021",
+        "subtotal": "$60.00",
+        "tax": "$2.50",
+        "total": "$62.50",
+        "line-item": [
+          {
+            "_id": 671,
+            "name": "Gatoraid",
+            "price": "$3.00",
+            "quantity": 3
+          },
+          {
+            "_id": 892,
+            "name": "Dog Food",
+            "price": "$38.00",
+            "quantity": 2
+          }
+        ]
+      }
+    ]
+  }
+]
