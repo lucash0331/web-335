@@ -1,0 +1,50 @@
+{
+  "publisher_name": "Hoffman",
+  "publisher_code": "1234567",
+  "publisher_address": {
+    "street": "123 Peachtree Street",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip_code": 30064
+  },
+  "books": [
+    {
+      "book_isbn": 8983542020283,
+      "book_name": "Bigger Than Life",
+      "book_price": 24.59,
+      "author": [
+        {
+          "author_first_name": "John",
+          "author_last_name": "Mccarthy",
+          "author_phone": "678-123-4567",
+          "author_email": "jmccarthy@yahoo.com"
+        },
+        {
+          "author_first_name": "Kaleb",
+          "author_last_name": "Freels",
+          "author_phone": "470-123-4567",
+          "author_email": "kfreels@yahoo.com"
+        },
+        {
+          "author_first_name": "Joe",
+          "author_last_name": "Graves",
+          "author_phone": "404-123-4567",
+          "author_email": "jgraves@yahoo.com"
+        }
+      ]
+    },
+    {
+      "book_isbn": 123456789123456789,
+      "book_name": "Take Life by The Horns",
+      "book_price": 34.69,
+      "author": [
+        {
+          "author_first_name": "Lucas",
+          "author_last_name": "Hoffman",
+          "author_phone": "123-456-7890",
+          "author_email": "lhoffman@yahoo.com"
+        }
+      ]
+    }
+  ]
+}
