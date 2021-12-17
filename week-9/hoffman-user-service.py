@@ -32,4 +32,4 @@ user_id = db.users.insert_one(user).inserted_id
 print(user_id)
 
 # Query users collection with find_one() method
-pprint.pprint(db.users.find_one({"employee_id": "9876543"}))
+pprint.pprint(db.users.find_one({"employee_id": "69896989"}))
